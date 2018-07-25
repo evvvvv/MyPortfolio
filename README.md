@@ -5,4 +5,4 @@
 <br>
 在项目中我负责前期需求分析、竞品分析和原型设计，并独立完成app所有页面的UI设计。
 <br>
-这里[戳我](https://v.youku.com/v_show/id_XMzc0NDU4MjIyMA==.html?spm=a2hzp.8253876.0.0&f=51834516)是我用AE制做的app展示视频。
+这里[戳我](https://v.youku.com/v_show/id_XMzc0NDU4MjIyMA==.html?spm=a2hzp.8253876.0.0&f=51834516)是我用AE制作的app展示视频。
